@@ -1,21 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-
+import CommentDetail from './CommentDetail';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h4>Welcome to my site</h4>
-        <h4>Welcome to my site</h4>
-        <h4>Welcome to my site</h4>
-        <h4>Welcome to my site</h4>
-        <h4>Welcome to my site</h4>
-        <h4>Welcome to my site</h4>
-        <h4>Welcome to my site</h4>
-        <h4>Welcome to my site</h4>
-      </header>
-    </div>
+    <img src="construction.jpg"/>
+    // <div className="ui container comments">
+    //   <CommentDetail author="Sam"/>
+    //   <CommentDetail author="Alex"/>
+    //   <CommentDetail author="Jhon"/>
+    // </div>
+
   );
 }
 
