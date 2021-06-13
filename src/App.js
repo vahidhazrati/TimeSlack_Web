@@ -7,6 +7,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h4>Welcome to my site</h4>
+        <h4>Welcome to my site</h4>
+        <h4>Welcome to my site</h4>
+        <h4>Welcome to my site</h4>
+        <h4>Welcome to my site</h4>
+        <h4>Welcome to my site</h4>
+        <h4>Welcome to my site</h4>
+        <h4>Welcome to my site</h4>
       </header>
     </div>
   );
